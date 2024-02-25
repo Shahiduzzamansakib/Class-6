@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+  
+
+
+h1{
+
+  color:rgb(206, 16, 196);
+  background-color: rgb(55, 231, 55);
+  text-align: center;
+  font-family: "Anta", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  font-style: normal;
+ 
+}
+.ptag-1{
+
+  text-align: justify;
+  text-align-last: center;
+  font-size:30px ;
+  line-height: 1.5;
+  background-color:#d600ba;
+  text-decoration: underline;
+  text-decoration-color:#51ff00;
+  color: #ffffff;
+  
+  
+  
+}
+.ptag-2{
+
+  text-align: justify;
+  text-align-last: center;
+  font-size:30px ;
+  color:#ff0000;
+  line-height: 1.5;
+  background-color:#241edf;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color:#ffffff;
+}
+.ptag-3{
+
+  text-align: justify;
+  text-align-last: center;
+  font-size:30px ;
+  line-height: 1.5;
+  background-color: #03b403;
+  text-decoration: line-through;
+  text-decoration-color: #070bec;
+  
+}
+.box-1{
+
+  width: 150px;
+  height: 150px;
+  background-color: aqua;
+}
+.box-2{
+
+  width: 300px;
+  height: 300px;
+  background-color: rgb(0, 4, 255);
+  
+
+}
+.box-2 p{
+
+  color: #51ff00;
+  text-align: center;
+  line-height:300px;
+  font-size: 30px;
+  
+}
+.btn-1{
+
+  width: 100px;
+  height: 50px;
+  background-color: rgba(242, 89, 204, 0.78);
+  font-size: 20px;
+  color:#ff0000;
+  
+
+}
+.btn-2{
+
+  width: 100px;
+  height: 50px;
+  background-color: rgb(247, 0, 255);
+  font-size: 20px;
+  color:#0400ff;
+  
+
+}
+.btn-3{
+
+  width: 100px;
+  height: 50px;
+  background-color: rgb(0, 225, 255);
+  font-size: 20px;
+  color:#000000;
+  
+
+}
+.btn-4{
+
+  width: 100px;
+  height: 50px;
+  background-color: rgb(0, 4, 255);
+  font-size: 20px;
+  color:#ffffff;
+  
+
+}
